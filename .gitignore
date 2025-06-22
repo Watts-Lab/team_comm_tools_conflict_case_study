@@ -2,3 +2,4 @@
 /output/predict_utt_labels_model_records.pkl
 /output/predict_reddit_chat_labels_model_records.pkl
 .DS_Store
+__pycache__
