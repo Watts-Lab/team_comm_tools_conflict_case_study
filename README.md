@@ -4,6 +4,8 @@ This repository contains the full code and supporting data for the conflict mana
 
 ## Repo Structure
 This repository is structured as follows:
+
+```
 ├── README.md
 ├── conflict_case_study.ipynb         # Main analysis notebook (case study code)
 ├── feature_lists.py                  # Auxiliar file with feature lists/scripts for analysis
@@ -35,7 +37,7 @@ This repository is structured as follows:
     │   └── chats/
     └── sentiment/
         └── chats/
-
+```
 
 ### Key Files
 
