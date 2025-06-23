@@ -1,3 +1,5 @@
+/output/chat/combined_reddit_output_chat_level.csv
+/output/conv/combined_reddit_output_conv_level.csv
 /output/predict_gpt_labels_model_records.pkl
 /output/predict_utt_labels_model_records.pkl
 /output/predict_reddit_chat_labels_model_records.pkl
